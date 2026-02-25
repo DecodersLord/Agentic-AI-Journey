@@ -12,3 +12,7 @@ venv/
 # IDE
 .vscode/
 .idea/
+
+devto-*.md
+linkedin-*.md
+agent_architecture.md

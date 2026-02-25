@@ -2,9 +2,9 @@
 
 My hands-on journey into **Agentic AI** — building real agents from scratch, one phase at a time.
 
-📖 **Blog Series:** [AI Agent VS Chatbot (Phase 1)](https://dev.to/decoders_lord/ai-agent-vs-chatbot-156i)
-� **Status:** Phase 2 complete — first working agent built
-
+📖 **Blog Series:** 
+- [AI Agent VS Chatbot (Phase 1)](https://dev.to/decoders_lord/ai-agent-vs-chatbot-156i)
+- [Building my first AI Agent from Scratch (Phase 2)](https://dev.to/decoders_lord/building-my-first-ai-agent-from-scratch-1e35)
 ---
 
 ## Phase 1 — Mental Model ✅
